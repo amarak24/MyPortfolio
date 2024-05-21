@@ -5,7 +5,7 @@ This is a React-based portfolio website showcasing my projects, skills, and expe
 
 Features:  
 Responsive Design: Ensures the portfolio looks great on all devices, from desktops to mobile phones.  
-Project Showcase: Display projects with descriptions, links, and images/videos.    
+Project Showcase: Display projects with descriptions, links, and images/videos.     
 Skills Section: Highlight key skills and technologies.    
 Contact Form: Allow visitors to get in touch easily.    
 
