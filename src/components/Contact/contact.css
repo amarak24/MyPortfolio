@@ -1,0 +1,82 @@
+.contactpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100vw;
+}
+
+.contacttitle {
+  margin: 1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.contacttitledesc {
+  margin: 0.5rem;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+.contactform {
+  margin: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100vw;
+  max-width: 85%;
+}
+
+input,
+textarea {
+  font-size: medium;
+  width: 100%;
+  max-width: 40rem;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: white;
+  border: none;
+  background: rgb(40, 40, 40);
+  border-radius: 0.5rem;
+}
+
+.formbtn {
+  margin: 1rem;
+  color: black;
+  background: white;
+  padding: 0.7rem 1rem;
+  border: 1px solid white;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.link {
+  object-fit: cover;
+  height: 3rem;
+  width: 3rem;
+  margin: 0.5rem 0.5rem;
+}
+
+.linklinkedin {
+  object-fit: cover;
+  height: 2.7rem;
+  width: 2.68rem;
+  margin: 0.7rem 0.6rem;
+}
+
+.linkgithub {
+  object-fit: cover;
+  height: 3.5rem;
+  width: 3.7rem;
+  margin-top: 0.2rem;
+}

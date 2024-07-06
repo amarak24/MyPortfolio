@@ -1,0 +1,57 @@
+#about {
+  overflow: hidden;
+  width: 100vw;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  padding-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.titledesc {
+  font-weight: 200;
+  font-size: 1rem;
+  padding: 0 2rem;
+  max-width: 80%;
+}
+
+.skillbars {
+  margin: 1rem;
+  width: 100vw;
+  max-width: 100%;
+  text-align: left;
+}
+
+.skillbar {
+  display: flex;
+  margin: 2rem;
+  padding: 2rem 2rem;
+  border-radius: 0.5rem;
+  background: rgb(50, 50, 50);
+}
+
+.skillbarimg {
+  object-fit: cover;
+  height: 3rem;
+  width: 3rem;
+  margin-right: 2rem;
+}
+
+.skillbartext {
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+.skillbartext h2 {
+  margin-bottom: 0.7rem;
+}
