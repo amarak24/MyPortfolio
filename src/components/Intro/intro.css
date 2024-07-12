@@ -94,7 +94,7 @@
 }
 @media screen and (max-width: 480px) {
   .introimg {
-    right: -5vw;
+    display: none;
   }
   .hello {
     font-size: 4.5vw;

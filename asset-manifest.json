@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c779c5cf.css",
+    "main.js": "/static/js/main.32e77af8.js",
+    "static/media/Amar kalukhe resumme.pdf": "/static/media/Amar kalukhe resumme.bd039d1e1317981d4ece.pdf",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/imagee.png": "/static/media/imagee.2f046b6fc4512b5b259a.png",
+    "static/media/worksimg1.jpg": "/static/media/worksimg1.76740f3c64f27a9e4aaa.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/linkedin.png": "/static/media/linkedin.e629207bcf2d4e584fac.png",
+    "static/media/tick.png": "/static/media/tick.cefcaa6d3d52c80041ab.png",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.c513c70e533fc24914a9.jpg",
+    "static/media/logo.png": "/static/media/logo.8522fbc5b07c003478a9.png",
+    "static/media/github.png": "/static/media/github.72f0151526e08e939e17.png",
+    "static/media/menu.png": "/static/media/menu.901568c316a0eb45ca52.png",
+    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.c779c5cf.css.map": "/static/css/main.c779c5cf.css.map",
+    "main.32e77af8.js.map": "/static/js/main.32e77af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c779c5cf.css",
+    "static/js/main.32e77af8.js"
+  ]
+}

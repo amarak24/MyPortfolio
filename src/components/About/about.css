@@ -55,3 +55,14 @@
 .skillbartext h2 {
   margin-bottom: 0.7rem;
 }
+
+@media screen and (max-width: 480px) {
+  .skillbar {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    padding: 2rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50, 50, 50);
+  }
+}

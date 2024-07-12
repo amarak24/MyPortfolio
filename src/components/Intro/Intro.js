@@ -2,7 +2,7 @@ import React from "react";
 import "./intro.css";
 import bg from "../../assets/imagee.png";
 import btnimg from "../../assets/hireme.png";
-import cv from "../../assets/Amar kalukhe resumme.pdf";
+import cv from "../../assets/Amar kalukhe resume(2) (2).pdf";
 
 const Intro = () => {
   return (

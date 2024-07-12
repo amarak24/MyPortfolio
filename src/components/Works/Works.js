@@ -1,9 +1,9 @@
 import React from "react";
 import "./works.css";
 import worksimg1 from "../../assets/worksimg1.jpg";
-import worksimg2 from "../../assets/portfolio2.jpg";
+import aquasolutions from "../../assets/aquasolutions.png";
 import worksimg3 from "../../assets/portfolio3.jpg";
-import worksimg4 from "../../assets/portfolio4.jpg";
+import FlowerStore from "../../assets/flowerStore.png";
 import worksimg5 from "../../assets/portfolio5.png";
 
 const Works = () => {
@@ -22,21 +22,30 @@ const Works = () => {
       </span>
       <div className="workprojects">
         <article className="portfolioitem">
-          <img src={worksimg1} alt="" className="worksimg" />
-          <h3>Portfolio Website</h3>
+          <img src={aquasolutions} alt="" className="worksimg" />
+          <h3>AquaSolutions Pvt Ltd Website</h3>
           <div className="portfolioitemlinks">
-            <a href="">Github</a>
-            <a href="https://meek-lollipop-f97804.netlify.app" target="blank">
+            <a
+              href="https://github.com/amarak24/Aqua-Solutions-pvt-ltd"
+              target="blank"
+            >
+              Github
+            </a>
+            <a href="https://aquasolutions.vercel.app/" target="blank">
               Live Demo
             </a>
           </div>
         </article>
         <article className="portfolioitem">
-          <img src={worksimg2} alt="" className="worksimg" />
-          <h3>title</h3>
+          <img src={worksimg1} alt="" className="worksimg" />
+          <h3>Portfolio Website</h3>
           <div className="portfolioitemlinks">
-            <a href="">Github</a>
-            <a href="">Live Demo</a>
+            <a href="" target="blank">
+              Github
+            </a>
+            <a href="https://meek-lollipop-f97804.netlify.app" target="blank">
+              Live Demo
+            </a>
           </div>
         </article>
         <article className="portfolioitem">
@@ -52,12 +61,19 @@ const Works = () => {
           </div>
         </article>
         <article className="portfolioitem">
-          <img src={worksimg4} alt="" className="worksimg" />
+          <img src={FlowerStore} alt="" className="worksimg" />
 
-          <h3>title</h3>
+          <h3>Flower Store</h3>
           <div className="portfolioitemlinks">
-            <a href="">Github</a>
-            <a href="">Live Demo</a>
+            <a
+              href="https://github.com/amarak24/FlowerStore-E-commerce-website"
+              target="blank"
+            >
+              Github
+            </a>
+            <a href="https://flowerstore.great-site.net" target="blank">
+              Live Demo
+            </a>
           </div>
         </article>
         <article className="portfolioitem">
