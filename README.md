@@ -94,6 +94,3 @@ Customize the content by editing the relevant components and files in the src di
 Contributing:  
 Contributions are welcome! Feel free to submit issues or pull requests.  
 
-License:  
-This project is licensed under the MIT License.  
->>>>>>> 1e56911d4b34cf9f1f6d1e1cc358a95661601a8e
